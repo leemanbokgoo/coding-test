@@ -10,7 +10,7 @@ public class FilpSpeificCharacters {
 	public ArrayList<String> solution(String str){
 		ArrayList<String> answer = new ArrayList<>();
 		char[] s = str.toCharArray();
-		int lt = 0 , rt = str.length() -1; // lt = 첫번째 문자 rt = 마지막 문자
+		int lt = 0 , rt = str.length() -1; // lt = 첫번째 문자 , rt = 마지막 문자
 
 		while (lt<rt){
 			// 알파벳이 아닐때
