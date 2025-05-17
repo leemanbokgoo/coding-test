@@ -3,7 +3,6 @@ package string;
 import java.util.Scanner;
 
 public class FindString {
-
 	public int solution(String str, char t){
 		int answer = 0;
 		// 전부 대문자로 변경
