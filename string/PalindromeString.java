@@ -32,7 +32,7 @@ public class PalindromeString {
 	}
 
 	public static void main(String[] args){
-		RemoveDuplicateCharacters T = new RemoveDuplicateCharacters();
+		PalindromeString T = new PalindromeString();
 		Scanner kb = new Scanner(System.in);
 		// 스캐너로 입력한 str 읽기
 		String str = kb.next();
