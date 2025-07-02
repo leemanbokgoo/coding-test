@@ -30,7 +30,7 @@ public class CorrectParentheses {
 	}
 
 	public static void main(String[] args){
-		LargestNumber T = new LargestNumber();
+		CorrectParentheses T = new CorrectParentheses();
 		Scanner kb = new Scanner(System.in);
 		String str = kb.next();
 		System.out.println(T.solution(str));
