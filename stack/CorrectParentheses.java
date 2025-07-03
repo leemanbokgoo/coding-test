@@ -1,11 +1,8 @@
 package stack;
 
-import java.util.Collections;
 import java.util.Scanner;
 import java.util.Stack;
-import java.util.TreeSet;
 
-import hashMapTreeSet.LargestNumber;
 
 /**
  * 괄호가 입력되면 올바른 괄호라면 "YES", 올바르지않으면 "NO"를 출력한다.
